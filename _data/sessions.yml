@@ -1,72 +1,54 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 001
-  title: "Session title"
-  description: "Dession description"
-  subtype: workshop
-  speakers: [3, 6]
+  id: 101
+  title: "Keystory"
+  subtype: presentation
+  speakers: []
   language: en
-  complexity: "Intermediate"
-  presentation: "https://slides.com/"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 002
-  title: "Session title"
-  description: "Dession description"
-  subtype: workshop
-  speakers: [3, 6]
+  id: 102
+  title: "Mini break"
+  subtype: break
+  speakers: []
   language: en
-  complexity: "Intermediate"
-  presentation: "https://slides.com/"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 003
-  title: "Session title"
-  description: "Dession description"
+  id: 103
+  title: "Workshops"
   subtype: workshop
-  speakers: [3, 6]
+  speakers: []
   language: en
-  complexity: "Intermediate"
-  presentation: "https://slides.com/"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 004
-  title: "Session title"
-  description: "Dession description"
+  id: 104
+  title: "Lunch"
+  subtype: break
+  speakers: []
+  language: en
+-
+  id: 105
+  title: "Talks and demos"
+  subtype: presentation
+  speakers: []
+  language: en
+-
+  id: 106
+  title: "Mini break"
+  subtype: break
+  speakers: []
+  language: en
+-
+  id: 107
+  title: "Talks and demos"
+  subtype: presentation
+  speakers: []
+  language: en
+-
+  id: 108
+  title: "Mini break"
+  subtype: break
+  speakers: []
+  language: en
+-
+  id: 109
+  title: "Hacky half hour!"
   subtype: workshop
-  speakers: [3, 6]
+  speakers: []
   language: en
-  complexity: "Intermediate"
-  presentation: "https://slides.com/"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Session title"
-  description: "Dession description"
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://slides.com/"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 006
-  title: "Session title"
-  description: "Dession description"
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://slides.com/"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
